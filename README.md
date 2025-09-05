@@ -9,7 +9,7 @@ O objetivo é analisar e visualizar dados médicos usando pandas, matplotlib e s
 - Calcula o IMC (BMI) e cria a coluna overweight onde 0 = normal e 1 = sobrepeso.
 - Normaliza as variáveis cholesterol e gluc onde 0 = normal e 1 = alto.
 - Gera um Catplot mostrando a distribuição de fatores de saúde cholesterol, gluc, smoke, alco, active, overweight) para pacientes com (cardio=1) e sem (cardio=0) doenças cardíacas.
-- Gera um **Heatmap** da matriz de correlação após limpeza dos dados.
+- Gera um Heatmap da matriz de correlação após limpeza dos dados.
 
 
 
